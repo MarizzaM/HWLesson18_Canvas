@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLesson18_Canvas_Project", "HWLesson18_Canvas_Project\HWLesson18_Canvas_Project.csproj", "{77B99259-1587-4693-8558-A83B199D5CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{4DEE0216-DDBA-4224-97BC-AB8321BD0DD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B99259-1587-4693-8558-A83B199D5CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B99259-1587-4693-8558-A83B199D5CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B99259-1587-4693-8558-A83B199D5CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B99259-1587-4693-8558-A83B199D5CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEE0216-DDBA-4224-97BC-AB8321BD0DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEE0216-DDBA-4224-97BC-AB8321BD0DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEE0216-DDBA-4224-97BC-AB8321BD0DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEE0216-DDBA-4224-97BC-AB8321BD0DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C8BF9D-5A2D-49A3-AC3C-E3836BFC8C1B}
+	EndGlobalSection
+EndGlobal
